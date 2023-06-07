@@ -1,7 +1,7 @@
 // const launchsites = 
 //import Launchsites from "public/launchshites_20230604.json"
 import React from "react";
-import Launchsites from "../../public/launchsites_20230604.json";
+import Launchsites from "../../public/launchsites_20230606_short.json";
 
 export default function Launchsite() {
 
